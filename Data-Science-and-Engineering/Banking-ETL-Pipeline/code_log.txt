@@ -1,0 +1,66 @@
+2026-Mar-25-14:00:51 : Preliminaries complete. Initiating ETL process.
+2026-Mar-25-14:00:51 : Extraction process started.
+2026-Mar-25-14:00:54 : Extraction process completed.
+2026-Mar-25-14:00:54 : Transformation process started.
+2026-Mar-25-14:00:55 : Transformation process completed.
+2026-Mar-25-14:00:55 : Data saved to CSV file.
+2026-Mar-25-14:00:55 : Data loaded to Database as a table.
+2026-Mar-25-14:00:55 : Executing query: SELECT * FROM Largest_banks
+2026-Mar-25-14:00:55 : Executing query: SELECT AVG(MC_GBP_Billion) FROM Largest_banks
+2026-Mar-25-14:00:55 : Executing query: SELECT Name from Largest_banks LIMIT 5
+2026-Mar-25-14:00:55 : ETL Process Complete.
+2026-Mar-25-14:01:51 : Preliminaries complete. Initiating ETL process.
+2026-Mar-25-14:01:51 : Extraction process started.
+2026-Mar-25-14:01:52 : Extraction process completed.
+2026-Mar-25-14:01:52 : Transformation process started.
+2026-Mar-25-14:01:54 : Transformation process completed.
+2026-Mar-25-14:01:54 : Data saved to CSV file.
+2026-Mar-25-14:01:54 : Data loaded to Database as a table.
+2026-Mar-25-14:01:54 : Executing query: SELECT * FROM Largest_banks
+2026-Mar-25-14:01:54 : Executing query: SELECT AVG(MC_GBP_Billion) FROM Largest_banks
+2026-Mar-25-14:01:54 : Executing query: SELECT Name from Largest_banks LIMIT 5
+2026-Mar-25-14:01:54 : ETL Process Complete.
+2026-Mar-25-14:02:20 : Preliminaries complete. Initiating ETL process.
+2026-Mar-25-14:02:20 : Extraction process started.
+2026-Mar-25-14:02:22 : Extraction process completed.
+2026-Mar-25-14:02:22 : Transformation process started.
+2026-Mar-25-14:02:23 : Transformation process completed.
+2026-Mar-25-14:02:23 : Data saved to CSV file.
+2026-Mar-25-14:02:23 : Data loaded to Database as a table.
+2026-Mar-25-14:02:23 : Executing query: SELECT * FROM Largest_banks
+2026-Mar-25-14:02:23 : Executing query: SELECT AVG(MC_GBP_Billion) FROM Largest_banks
+2026-Mar-25-14:02:23 : Executing query: SELECT Name from Largest_banks LIMIT 5
+2026-Mar-25-14:02:23 : ETL Process Complete.
+2026-Mar-25-14:04:02 : Preliminaries complete. Initiating ETL process.
+2026-Mar-25-14:04:02 : Extraction process started.
+2026-Mar-25-14:04:04 : Extraction process completed.
+2026-Mar-25-14:04:04 : Transformation process started.
+2026-Mar-25-14:04:05 : Transformation process completed.
+2026-Mar-25-14:04:05 : Data saved to CSV file.
+2026-Mar-25-14:04:05 : Data loaded to Database as a table.
+2026-Mar-25-14:04:05 : Executing query: SELECT * FROM Largest_banks
+2026-Mar-25-14:04:05 : Executing query: SELECT AVG(MC_GBP_Billion) FROM Largest_banks
+2026-Mar-25-14:04:05 : Executing query: SELECT Name from Largest_banks LIMIT 5
+2026-Mar-25-14:04:05 : ETL Process Complete.
+2026-Mar-25-14:09:37 : Preliminaries complete. Initiating ETL process.
+2026-Mar-25-14:09:37 : Extraction process started.
+2026-Mar-25-14:09:39 : Extraction process completed.
+2026-Mar-25-14:09:39 : Transformation process started.
+2026-Mar-25-14:09:41 : Transformation process completed.
+2026-Mar-25-14:09:41 : Data saved to CSV file.
+2026-Mar-25-14:09:41 : Data loaded to Database as a table.
+2026-Mar-25-14:09:41 : Executing query: SELECT * FROM Largest_banks
+2026-Mar-25-14:09:41 : Executing query: SELECT AVG(MC_GBP_Billion) FROM Largest_banks
+2026-Mar-25-14:09:41 : Executing query: SELECT Name from Largest_banks LIMIT 5
+2026-Mar-25-14:09:41 : ETL Process Complete.
+2026-Mar-25-14:10:33 : Preliminaries complete. Initiating ETL process.
+2026-Mar-25-14:10:33 : Extraction process started.
+2026-Mar-25-14:10:34 : Extraction process completed.
+2026-Mar-25-14:10:34 : Transformation process started.
+2026-Mar-25-14:10:36 : Transformation process completed.
+2026-Mar-25-14:10:36 : Data saved to CSV file.
+2026-Mar-25-14:10:36 : Data loaded to Database as a table.
+2026-Mar-25-14:10:36 : Executing query: SELECT * FROM Largest_banks
+2026-Mar-25-14:10:36 : Executing query: SELECT AVG(MC_GBP_Billion) FROM Largest_banks
+2026-Mar-25-14:10:36 : Executing query: SELECT Name from Largest_banks LIMIT 5
+2026-Mar-25-14:10:36 : ETL Process Complete.
